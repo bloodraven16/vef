@@ -1,0 +1,61 @@
+* {
+    box-sizing: border-box;
+}
+body {
+	max-width: 60em;
+	 margin: 0 auto;
+	 font-family: sans-serif;
+}
+
+footer p {
+  text-align: center;
+}
+
+.gulur {
+	background-color: yellow;
+}
+.raudur {
+	background-color: red; 
+}
+.graenn {
+	background-color: lime; 
+}
+.blar {
+	background-color: cyan; 
+}
+.box1 {
+	font-size: 1.3em;
+	height: 10em;
+	width: 5em; 
+}
+
+section.row {
+	display: flex;
+	flex-direction: row;
+	height: 100%;
+}
+
+section.col {
+	display: flex;
+	flex-direction: column;
+	height: 100%;
+}
+
+.gulu {
+	background-color: yellow;
+}
+.raudu {
+	background-color: red; 
+}
+.graen {
+	background-color: lime; 
+}
+.bla {
+	background-color: cyan; 
+}
+
+.box {
+	font-size: 1.3em;
+	height: 5em;
+	width: 10em; 
+}

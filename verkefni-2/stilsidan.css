@@ -1,0 +1,49 @@
+body {
+    border: 1px solid;
+    text-align: center;
+    border-color: blue; 
+ }
+ 
+ div.groupone {
+     border: 1px solid;
+    text-align: center;
+    border-color: blue; 
+    font-size: 110%;
+    float: left;
+ }
+ 
+ span.imgR {
+     float: left;
+     margin: 4px;
+    
+     
+ }
+ 
+ section.box {
+     border: 1px solid;
+     border-color: blue;
+     float: none;
+     width: 829px;
+     font-size: 150%;
+ 
+     
+ }
+ div.group {
+     border: 1px solid;
+     border-color: blue;
+     float: right;
+     width: 828px;
+     font-size: 150%;
+ }
+ 
+ span.bigL {
+     font-size: 250%;
+ }
+ 
+ h2 {
+     color: silver;
+ }
+ 
+ p {
+     color: crimson;
+ }
